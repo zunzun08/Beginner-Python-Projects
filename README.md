@@ -7,5 +7,5 @@ coming months.
 - 🔭 I’m currently working on ... Learning to code in python!
 - 🌱 I’m currently learning ... Differential Equations and Physics (I'm a busy university student ;_;)
 - 🤔 I’m looking for help with ... 
-- 💬 Ask me about ...
+- 💬 Ask me about ... Math and cooking! Lets have a conversation about food and numbers.
 - 📫 How to reach me: ... Email: czcompean@utexas.edu
